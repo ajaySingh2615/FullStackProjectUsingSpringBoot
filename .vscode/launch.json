@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-Main<full-stack-project>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.ajay.Main",
+      "projectName": "full-stack-project",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
